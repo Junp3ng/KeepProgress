@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class GroupAnagramsExam {
+public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         ArrayList<List<String>> result = new ArrayList<>();
         HashMap<String, ArrayList<String>> map = new HashMap<>();
@@ -28,7 +28,6 @@ public class GroupAnagramsExam {
     }
 
     public static void main(String[] args) {
-        
 
     }
 }
