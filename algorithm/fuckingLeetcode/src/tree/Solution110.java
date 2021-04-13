@@ -67,31 +67,3 @@ public class Solution110 {
     }
 }
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-
-    void print() {
-        System.out.println(val);
-        if (left != null) {
-            left.print();
-        }
-        if (right != null) {
-            right.print();
-        }
-    }
-}

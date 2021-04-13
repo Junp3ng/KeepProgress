@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5bf717-bebc-4c3c-b6ce-78549e730051" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../src/hash/Solution1614.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/tree/Solution0403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/tree/Solution110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/tree/Solution589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../test/src/main/kotlin/reactiveSample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../hashtable/out/production/hashtable/CanRecordDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../hashtable/out/production/hashtable/CanRecordDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../hashtable/src/BestLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../hashtable/src/BestLine.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf5bf717-bebc-4c3c-b6ce-78549e730051" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
