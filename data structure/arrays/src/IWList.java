@@ -2,16 +2,26 @@ import java.util.Iterator;
 
 public interface IWList<T> {
 
-    boolean add(T element);
+    int size();
 
-    boolean add(int index, T element);
+    int capacity();
 
+    boolean is_empty();
 
-    boolean remove(T element);
+    T at(int index) throws IndexOutOfBoundsException;
 
-    boolean removeAt(int index);
+    void push(T item);
 
-    boolean clearAll();
+    void insert(int index, T item);
 
-    int length();
+    void prepend(T item);
+
+    T pop();
+
+    void delete(int index);
+
+    void remove(T item);
+
+    int find(T item);
+
 }
